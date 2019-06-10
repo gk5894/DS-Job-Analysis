@@ -6,12 +6,17 @@
 
 import requests
 import pandas as pd
+import numpy as np
+import csv
+import os
+import string
+import ast
 import time 
 from functions import *
 
 
 # limit per sity
-max_results_per_city = 5
+max_results_per_city = 200
 
 # db of city 
 city_set = ['New+York','Boston','Chicago']
@@ -49,7 +54,7 @@ for city in city_set:
                 page = requests.get('http://www.indeed.com/jobs?q=' + job_qry +'&l=' + str(city) + '&start=' + str(start))
 
                 #ensuring at least 1 second between page grabs                    
-                time.sleep(5)  
+                time.sleep(3)  
 
                 #fetch data
                 soup = get_soup(page.text)
