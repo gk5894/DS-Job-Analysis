@@ -16,7 +16,7 @@ from functions import *
 
 
 # limit per sity
-max_results_per_city = 200
+max_results_per_city = 500
 
 # db of city 
 city_set = ['New+York','Boston','Chicago']
