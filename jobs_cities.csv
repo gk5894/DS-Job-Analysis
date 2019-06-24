@@ -1,0 +1,427 @@
+"Acton, MA",3
+"Albany, NY",12
+"Albany, NY 12205",9
+"Albany, NY 12210 (Central Avenue area)",2
+"Albany, NY 12211",1
+"Alsip, IL",1
+"Andover, MA",7
+"Andover, MA 01810",6
+"Arlington Heights, IL",4
+"Arlington, MA",2
+"Arlington, MA 02476",2
+"Armonk, NY 10504",6
+"Ashland, MA 01721",1
+"Astoria, NY 11105",1
+"Babson Park, MA",1
+"Bedford, MA",6
+"Bedford, MA 01730",14
+"Bensenville, IL",1
+"Beverly, MA",1
+"Beverly, MA 01915",7
+"Billerica, MA",4
+"Binghamton, NY",1
+"Blauvelt, NY",1
+"Bohemia, NY 11716",1
+"Bolingbrook, IL",1
+"Bolingbrook, IL 60440",14
+"Boonville, NY 13309",1
+"Boston, MA",428
+"Boston, MA 02101",10
+"Boston, MA 02108 (Back Bay-Beacon Hill area)",13
+"Boston, MA 02109 (Central area)",49
+"Boston, MA 02110 (Central area)",25
+"Boston, MA 02111 (Central area)",27
+"Boston, MA 02114 (Back Bay-Beacon Hill area)",27
+"Boston, MA 02115 (Fenway-Kenmore area)",37
+"Boston, MA 02116 (South End area)",41
+"Boston, MA 02118 (South Boston area)",14
+"Boston, MA 02120 (Jamaica Plain area)",1
+"Boston, MA 02122 (South Dorchester area)",1
+"Boston, MA 02127 (South Boston area)",3
+"Boston, MA 02129 (Fenway-Kenmore area)",2
+"Boston, MA 02130 (Roslindale area)",1
+"Boston, MA 02134 (Allston-Brighton area)",1
+"Boston, MA 02199 (Back Bay-Beacon Hill area)",7
+"Boston, MA 02210 (South Boston area)",52
+"Boston, MA 02212 (Central area)",4
+"Boston, MA 02215 (Fenway-Kenmore area)",4
+"Boston, MA 02298 (Central area)",9
+"Boston, NY",1
+"Braintree, MA",1
+"Braintree, MA 02184",1
+"Brentwood, NY",1
+"Bridgeview, IL 60455",1
+"Brighton, MA 02135",1
+"Broadview, IL 60155",1
+"Bronx, NY",3
+"Bronx, NY 10466 (Wakefield-Williamsbridge area)",1
+"Brookline, MA 02445",1
+"Brookline, MA 02446",1
+"Brooklyn, NY",15
+"Brooklyn, NY 11201",11
+"Brooklyn, NY 11211",1
+"Brooklyn, NY 11220 (Sunset Park area)",2
+"Brooklyn, NY 11226",1
+"Brooklyn, NY 11245 (Downtown area)",2
+"Brooklyn, NY 11249 (Chelsea area)",1
+"Bryant Park, NY",1
+"Buffalo, NY",2
+"Buffalo, NY 14202 (Central Business District area)",3
+"Buffalo, NY 14203",3
+"Buffalo, NY 14228",1
+"Burlington, MA",23
+"Burlington, MA 01803",10
+"Burr Ridge, IL",2
+"Cambridge, MA",80
+"Cambridge, MA 02138 (West Cambridge area)",9
+"Cambridge, MA 02139 (Area IV area)",29
+"Cambridge, MA 02140 (North Cambridge area)",8
+"Cambridge, MA 02141 (East Cambridge area)",2
+"Cambridge, MA 02142 (East Cambridge area)",44
+"Canastota, NY",1
+"Canton, MA",2
+"Canton, MA 02021",4
+"Champlain, NY 12919",1
+"Charlestown, MA",2
+"Charlestown, MA 02129 (Fenway-Kenmore area)",3
+"Cheektowaga, NY",1
+"Chelmsford, MA",1
+"Chelmsford, MA 01824",4
+"Chicago, IL",631
+"Chicago, IL 60290 (Loop area)",23
+"Chicago, IL 60601 (Loop area)",68
+"Chicago, IL 60602 (Loop area)",18
+"Chicago, IL 60603 (Loop area)",33
+"Chicago, IL 60604 (Loop area)",20
+"Chicago, IL 60605 (Near South Side area)",3
+"Chicago, IL 60606 (Loop area)",85
+"Chicago, IL 60607 (Near West Side area)",24
+"Chicago, IL 60608 (Lower West Side area)",1
+"Chicago, IL 60609 (New City area)",3
+"Chicago, IL 60610 (Near North Side area)",5
+"Chicago, IL 60611 (Near North Side area)",12
+"Chicago, IL 60612 (Near West Side area)",14
+"Chicago, IL 60613 (Uptown area)",1
+"Chicago, IL 60614 (Lincoln Park area)",5
+"Chicago, IL 60616 (Douglas area)",5
+"Chicago, IL 60617 (South Deering area)",1
+"Chicago, IL 60618 (Avondale area)",1
+"Chicago, IL 60619 (Chatham area)",2
+"Chicago, IL 60620 (Auburn Gresham area)",2
+"Chicago, IL 60621 (Englewood area)",1
+"Chicago, IL 60626 (Rogers Park area)",6
+"Chicago, IL 60628 (Roseland area)",1
+"Chicago, IL 60631 (Norwood Park area)",7
+"Chicago, IL 60638 (Clearing area)",2
+"Chicago, IL 60640 (Uptown area)",4
+"Chicago, IL 60642 (Portage Park area)",6
+"Chicago, IL 60644 (Austin area)",1
+"Chicago, IL 60646",2
+"Chicago, IL 60647",14
+"Chicago, IL 60654 (Loop area)",81
+"Chicago, IL 60656 (Norwood Park area)",2
+"Chicago, IL 60660 (Edgewater area)",1
+"Chicago, IL 60661 (Near West Side area)",31
+"Chicago, IL 60666",2
+"Cicero, IL",1
+"Concord, MA",1
+"Concord, MA 01742",2
+"Cook County, IL",1
+"Crestwood, IL 60445",1
+"Danvers, MA",3
+"Danvers, MA 01923",5
+"Deerfield, IL",8
+"Deerfield, IL 60015",15
+"Des Plaines, IL",2
+"Des Plaines, IL 60016",5
+"Des Plaines, IL 60018",2
+"Dorchester, MA",3
+"Dorchester, MA 02125 (North Dorchester area)",1
+"Downers Grove, IL",10
+"Downers Grove, IL 60515",14
+"Downers Grove, IL 60516",3
+"East Chicago, IN 46312",1
+"East Walpole, MA",3
+"Elk Grove Village, IL",4
+"Elk Grove Village, IL 60007",4
+"Elk Grove Village, IL 60009",2
+"Elmhurst, IL",1
+"Elmhurst, IL 60126",1
+"Elmhurst, NY 11373",1
+"Elmsford, NY",1
+"Evanston, IL",8
+"Evanston, IL 60201",2
+"Everett, MA",3
+"Falconer, NY 14733",1
+"Foxborough, MA",2
+"Framingham, MA",3
+"Framingham, MA 01701",9
+"Framingham, MA 01702",5
+"Franklin Park, IL 60131",1
+"Freeport, NY 11520",1
+"Garden City, NY",1
+"Getzville, NY 14068",1
+"Glen Ellyn, IL 60137",1
+"Glenview, IL",2
+"Glenview, IL 60025",2
+"Glenview, IL 60026",2
+"Great Neck, NY 11021",1
+"Greene, NY 13778",1
+"Hamilton, NY",1
+"Hammond, IN 46323",1
+"Harris, NY",1
+"Harrison, NY",2
+"Harvey, IL 60426",1
+"Hauppauge, NY",1
+"Hawthorne, NY",1
+"Hicksville, NY",4
+"Hines, IL",1
+"Hines, IL 60141",1
+"Hingham, MA",4
+"Hingham, MA 02043",1
+"Hingham, MA 02044",1
+"Holliston, MA 01746",1
+"Holtsville, NY",2
+"Holtsville, NY 11742",1
+"Hyde Park, NY 12538",1
+"Inwood, NY",2
+"Ipswich, MA 01938",1
+"Islandia, NY",1
+"Itasca, IL",1
+"Itasca, IL 60143",3
+"Ithaca, NY",2
+"Ithaca, NY 14850",2
+"Jackson Heights, NY",1
+"Jamaica Plain, MA",1
+"Jamaica, NY",1
+"Jericho, NY 11753",3
+"Lake Success, NY",1
+"Lamont, NY",1
+"Latham, NY",1
+"Latham, NY 12110",2
+"Lawrence, MA 01842",1
+"Lemont, IL 60439",13
+"Lexington, MA",11
+"Lexington, MA 02421",7
+"Lisle, IL",9
+"Lisle, IL 60532",5
+"Littleton, MA 01460",2
+"Lombard, IL 60148",2
+"Long Island City, NY",2
+"Long Island, NY",1
+"Loudonville, NY",1
+"Loudonville, NY 12211",2
+"Lowell, MA",10
+"Lowell, MA 01851",4
+"Lynn, MA",3
+"Malden, MA",2
+"Malden, MA 02148",1
+"Malta, NY",1
+"Manhattan, NY",17
+"Manhattan, NY 10007 (Financial District area)",3
+"Manhattan, NY 10018 (Clinton area)",1
+"Manhattan, NY 10038 (Financial District area)",6
+"Mansfield, MA",2
+"Mansfield, MA 02048",2
+"Markham, IL",1
+"Marlborough, MA",8
+"Marlborough, MA 01752",6
+"Massena, NY",2
+"Maynard, MA",1
+"Maywood, IL 60153",1
+"Medford, MA",7
+"Melrose Park, IL",2
+"Melrose Park, IL 60160",2
+"Melville, NY",4
+"Melville, NY 11747",4
+"Menands, NY",1
+"Mineola, NY",1
+"Morton Grove, IL 60053",1
+"Mount Prospect, IL",1
+"Mount Prospect, IL 60056",2
+"Naperville, IL 60563",2
+"Natick, MA 01760",8
+"Needham, MA",8
+"Needham, MA 02494",10
+"New Hyde Park, NY",1
+"New Hyde Park, NY 11042",3
+"New Rochelle, NY 10801",1
+"New Rochelle, NY 10804",1
+New York State,8
+"New York, NY",647
+"New York, NY 10001 (Chelsea area)",48
+"New York, NY 10002 (Lower East Side area)",6
+"New York, NY 10003 (Greenwich Village area)",14
+"New York, NY 10004 (Financial District area)",28
+"New York, NY 10005 (Financial District area)",9
+"New York, NY 10006 (Financial District area)",1
+"New York, NY 10007 (Financial District area)",15
+"New York, NY 10009 (East Village area)",1
+"New York, NY 10010 (Gramercy area)",35
+"New York, NY 10011 (Chelsea area)",99
+"New York, NY 10012 (Little Italy area)",12
+"New York, NY 10013 (Tribeca area)",14
+"New York, NY 10014 (West Village area)",6
+"New York, NY 10016 (Gramercy area)",26
+"New York, NY 10017 (Midtown area)",47
+"New York, NY 10018 (Clinton area)",25
+"New York, NY 10019 (Midtown area)",20
+"New York, NY 10020 (Midtown area)",12
+"New York, NY 10021 (Upper East Side area)",1
+"New York, NY 10022 (Midtown area)",27
+"New York, NY 10023 (Upper West Side area)",2
+"New York, NY 10024 (Upper West Side area)",5
+"New York, NY 10025 (Upper West Side area)",2
+"New York, NY 10027 (Hamilton Heights area)",3
+"New York, NY 10036",32
+"New York, NY 10038 (Financial District area)",11
+"New York, NY 10041 (Financial District area)",5
+"New York, NY 10048",10
+"New York, NY 10055",4
+"New York, NY 10065 (Upper East Side area)",2
+"New York, NY 10081 (Financial District area)",1
+"New York, NY 10104 (Midtown area)",4
+"New York, NY 10110 (East Village area)",1
+"New York, NY 10112 (Midtown area)",5
+"New York, NY 10118 (Chelsea area)",1
+"New York, NY 10119 (Chelsea area)",2
+"New York, NY 10120 (Chelsea area)",1
+"New York, NY 10123 (Chelsea area)",1
+"New York, NY 10158 (Midtown area)",1
+"New York, NY 10167 (Midtown area)",4
+"New York, NY 10168 (Murray Hill area)",2
+"New York, NY 10172 (Gramercy area)",3
+"New York, NY 10174 (Murray Hill area)",4
+"New York, NY 10176 (Murray Hill area)",13
+"New York, NY 10179 (Midtown area)",4
+"New York, NY 10261 (Murray Hill area)",4
+"New York, NY 10271 (Financial District area)",1
+"New York, NY 10281 (Battery Park area)",4
+"New York, NY 10282 (Tribeca area)",13
+"New York, NY 10455 (South Bronx area)",1
+"New York, NY 11201",3
+"New York, NY 11215 (Park Slope area)",1
+"New York, NY 11357",1
+"Newton, MA",14
+"Newton, MA 02456",1
+"Newton, MA 02458",4
+"Newton, MA 02459",1
+"Niles, IL 60714",3
+"Niskayuna, NY 12309",3
+"North Andover, MA 01845",1
+"North Billerica, MA 01862",3
+"North Reading, MA",10
+"Northbrook, IL",4
+"Northbrook, IL 60062",5
+"Northfield, IL",13
+"Norwell, MA 02061",2
+"Norwood, MA 02062",1
+"Oak Brook, IL",22
+"Oak Brook, IL 60523",8
+"Oak Park, IL",1
+"Oakbrook Terrace, IL",5
+"Oakbrook Terrace, IL 60181",4
+"Olean, NY",2
+"Olympia Fields, IL 60461",2
+"Orangeburg, NY 10962",1
+"Orchard Park, NY 14127",1
+"Oriskany, NY",2
+"Oswego, NY",3
+"Park Ridge, IL",2
+"Park Ridge, IL 60068",2
+"Peabody, MA 01960",2
+"Phoenix, IL",1
+"Pittsford, NY",1
+"Port Washington, NY 11050",3
+"Potsdam, NY",1
+"Poughkeepsie, NY",1
+"Poughkeepsie, NY 12601",1
+"Poughkeepsie, NY 12604",1
+"Purchase, NY",3
+"Purchase, NY 10577",4
+"Queens, NY",3
+"Queens, NY 11101",6
+"Quincy, MA",10
+"Quincy, MA 02169",4
+"Quincy, MA 02171",5
+"Randolph, MA 02368",1
+"Reading, MA 01867",1
+"Rochester, NY",7
+"Rochester, NY 14604 (Central Business District area)",1
+"Rochester, NY 14607 (East Avenue area)",1
+"Rochester, NY 14609 (Homestead Heights area)",1
+"Rochester, NY 14614 (Central Business District area)",2
+"Rochester, NY 14615",1
+"Rochester, NY 14625",1
+"Rockland, MA",3
+"Rolling Meadows, IL",4
+"Rolling Meadows, IL 60008",1
+"Roselle, IL 60172",2
+"Rosemont, IL",11
+"Rosemont, IL 60018",8
+"Roslindale, MA 02131",2
+"Roslyn, NY",1
+"Rye Brook, NY",1
+"Salem, MA",1
+"Saratoga Springs, NY",1
+"Schaumburg, IL",1
+"Schaumburg, IL 60173",4
+"Schaumburg, IL 60193",1
+"Schaumburg, IL 60196",1
+"Schenectady, NY",2
+"Schenectady, NY 12308",1
+"Schenectady, NY 12345",1
+"Skokie, IL",4
+"Skokie, IL 60077",5
+"Sleepy Hollow, NY 10591",1
+"Somerville, MA",17
+"Somerville, MA 02143",1
+"Somerville, MA 02144",3
+"Somerville, MA 02145",11
+"Southborough, MA",1
+"Stony Brook, NY",3
+"Stoughton, MA",1
+"Syracuse, NY",5
+"Syracuse, NY 13203 (Near Northeast area)",3
+"Tappan, NY",1
+"Tarrytown, NY",2
+"Tarrytown, NY 10591",1
+"Tewksbury, MA",1
+"Tewksbury, MA 01876",2
+"Topsfield, MA 01983",1
+"Union, NY",1
+"Valhalla, NY",1
+"Valley Cottage, NY 10989",1
+"Victor, NY 14564",1
+"Waltham, MA",31
+"Waltham, MA 02451",17
+"Waltham, MA 02452",3
+"Waltham, MA 02453",3
+"Waltham, MA 02454",2
+"Watertown, MA",1
+"Watertown, MA 02472",3
+"Wayland, MA",1
+"Wayland, MA 01778",1
+"Wellesley Hills, MA 02481",3
+"Wellesley, MA",3
+"Wellesley, MA 02481",1
+"West Newton, MA 02465",1
+"Westchester, IL",2
+"Westford, MA",3
+"Westford, MA 01886",4
+"Weston, MA 02493",3
+"Westwood, MA",1
+"Wheeling, IL 60090",1
+"White Plains, NY",5
+"White Plains, NY 10601",3
+"White Plains, NY 10605",1
+"White Plains, NY 10606",1
+"Wilmington, MA",2
+"Wilmington, MA 01887",3
+"Woburn, MA",17
+"Woburn, MA 01801",5
+"Wood Dale, IL 60191",4
+"Woodridge, IL",1
+"Yonkers, NY",3
+"York, NY",1
+"Yorktown Heights, NY 10598",1
