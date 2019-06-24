@@ -14,4 +14,4 @@ The python notebooks are used to perform the NLP and EDA analysis on the gathere
  - Run the __Job Analysis.pynb__ notebook to see the results.
  
 I have also created a static Tableau Dashboard using this data for a visual representation of the findings.
-Dashboard Link - https://public.tableau.com/profile/gaurav.kshirsagar#!/vizhome/DataScienceJobinEast-Coast/Dashboard1?publish=yes
+- Dashboard Link - https://public.tableau.com/profile/gaurav.kshirsagar#!/vizhome/DataScienceJobinEast-Coast/Dashboard1?publish=yes
