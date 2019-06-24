@@ -1,6 +1,6 @@
 # Job-finder
 
-The objective of this project is to study and analyze current Data Science job market in eastern major cities. I have developed a python web crawler which will help you obtain the data from indeed.com
+The objective of this project is to study and analyze current Data Science job market in east-coast cities. I have developed a python web crawler which will help you obtain the data from indeed.com
 The python notebooks will are used to perform the NLP and EDA analysis.
 
 ### Steps
