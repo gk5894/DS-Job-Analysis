@@ -3,7 +3,7 @@
 The objective of this project is to study and analyze current Data Science job market in eastern major cities. I have developed a python web crawler which will help you obtain the data from indeed.com
 The python notebooks will are used to perform the NLP and EDA analysis.
 
-### Steps to get data
+### Steps
 
  - Open Terminal
  - Clone the repository using  `git clone https://github.com/gk5894/Job-finder.git`
