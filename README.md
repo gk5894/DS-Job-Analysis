@@ -13,4 +13,5 @@ The python notebooks are used to perform the NLP and EDA analysis on the gathere
  - You can change the cities and job titles by editing the *city_set* and *job_set* parameter in __GetData.py__.
  - Run the __Job Analysis.pynb__ notebook to see the results.
  
-
+I have also created a static Tableau Dashboard using this data for a visual representation of the findings.
+Dashboard Link - https://public.tableau.com/profile/gaurav.kshirsagar#!/vizhome/DataScienceJobinEast-Coast/Dashboard1?publish=yes
